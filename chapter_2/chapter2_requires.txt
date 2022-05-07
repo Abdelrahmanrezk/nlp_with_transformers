@@ -1,0 +1,4 @@
+
+Trying the emotion dataset with imbalanced-learn library and with hugginface tuning.
+
+Trying represent the emition dataset after getting the last_hidden_state in LIT tool.
